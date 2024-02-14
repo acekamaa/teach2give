@@ -23,7 +23,9 @@ int main(void)
 {
 	int a;
 	int b;
-
+	
+	//************start here******** //
+	//input the value in an array then swap them.
 	a = 98;
 	b = 42;
 	printf("a = %d, b = %d\n", a, b);
